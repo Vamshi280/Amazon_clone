@@ -1,2 +1,2 @@
 # Amazon_clone
-Amazon webpage clone
+Amazon webpage clone.
